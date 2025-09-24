@@ -1,0 +1,64 @@
+{
+  "name": "next-shadcn-boilerplate",
+  "version": "1.0.0",
+  "description": "A modern Next.js boilerplate with shadcn/ui, Tailwind CSS, TypeScript, and best practices for building fast, scalable, and production-ready web applications",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "prepare": "husky",
+    "test": "jest",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "Next.js",
+    "boilerplate",
+    "shadcn",
+    "ui",
+    "tailwind",
+    "typescript",
+    "react",
+    "nextjs"
+  ],
+  "homepage": "https://github.com/tim-syntax/next-shadcn-boilerplate#readme",
+  "bugs": {
+    "url": "https://github.com/tim-syntax/next-shadcn-boilerplate/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-syntax/next-shadcn-boilerplate.git"
+  },
+  "license": "ISC",
+  "author": "tim-syntax",
+  "main": "index.js",
+  "dependencies": {
+    "@hookform/resolvers": "^4.1.3",
+    "@tanstack/react-query": "^5.90.2",
+    "axios": "^1.12.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "next": "^15.5.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-hook-form": "^7.54.2",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^4.1.13",
+    "tw-animate-css": "^1.4.0",
+    "zod": "^4.1.11",
+    "zustand": "^5.0.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.13",
+    "@types/node": "^24.5.2",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "typescript": "^5.9.2"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx}": "eslint --fix",
+    "*.{json,css,scss,md}": "prettier --write"
+  }
+}
